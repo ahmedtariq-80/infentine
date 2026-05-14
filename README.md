@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @infentine
-- 👀 I’m interested in ... ai, deep learning , blockchain
-- 🌱 I’m currently learning ...c++ 
+- 👋 Hi, I’m @ahmed
+- 👀 I’m interested in ... ai, Embedded systems ,IOT , chip desighning
+- 🌱 I’m currently doing electrical engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... He/him
